@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Jasmine Rice 1kg",
+    "sku": "RICE001",
+    "keywords": "rice,jasmine rice,arisi",
+    "stock_available": 100,
+    "unit": "kg",
+    "unit_price": 60.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 2,
+    "name": "Basmati Rice 1kg",
+    "sku": "RICE002",
+    "keywords": "basmati rice",
+    "stock_available": 80,
+    "unit": "kg",
+    "unit_price": 120.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 3,
+    "name": "Aashirvaad Atta 1kg",
+    "sku": "GRN001",
+    "keywords": "atta,wheat flour,maavu",
+    "stock_available": 90,
+    "unit": "kg",
+    "unit_price": 55.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 4,
+    "name": "Ragi Flour 1kg",
+    "sku": "GRN002",
+    "keywords": "ragi flour",
+    "stock_available": 60,
+    "unit": "kg",
+    "unit_price": 70.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 5,
+    "name": "Naturel Sunflower Oil 1L",
+    "sku": "OIL001",
+    "keywords": "oil,sunflower oil",
+    "stock_available": 50,
+    "unit": "ltr",
+    "unit_price": 120.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 6,
+    "name": "Fortune Groundnut Oil 1L",
+    "sku": "OIL002",
+    "keywords": "groundnut oil,kadalai ennai",
+    "stock_available": 40,
+    "unit": "ltr",
+    "unit_price": 140.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 7,
+    "name": "Parachute Coconut Oil 1L",
+    "sku": "OIL003",
+    "keywords": "coconut oil,thengai ennai",
+    "stock_available": 35,
+    "unit": "ltr",
+    "unit_price": 160.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 8,
+    "name": "Amul Milk 1L",
+    "sku": "MLK001",
+    "keywords": "milk,paal",
+    "stock_available": 100,
+    "unit": "ltr",
+    "unit_price": 50.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 9,
+    "name": "Curd 500ml",
+    "sku": "MLK002",
+    "keywords": "curd,yogurt,thayir",
+    "stock_available": 60,
+    "unit": "ml",
+    "unit_price": 35.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 10,
+    "name": "Amul Butter 200g",
+    "sku": "MLK003",
+    "keywords": "butter,vennai",
+    "stock_available": 40,
+    "unit": "g",
+    "unit_price": 120.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 11,
+    "name": "Onion 1kg",
+    "sku": "VEG001",
+    "keywords": "onion,vengayam",
+    "stock_available": 120,
+    "unit": "kg",
+    "unit_price": 30.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 12,
+    "name": "Tomato 1kg",
+    "sku": "VEG002",
+    "keywords": "tomato",
+    "stock_available": 110,
+    "unit": "kg",
+    "unit_price": 25.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 13,
+    "name": "Potato 1kg",
+    "sku": "VEG003",
+    "keywords": "potato,urulai kilangu",
+    "stock_available": 130,
+    "unit": "kg",
+    "unit_price": 28.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 14,
+    "name": "Maggi Noodles Pack",
+    "sku": "SNK001",
+    "keywords": "maggi,noodles",
+    "stock_available": 200,
+    "unit": "pcs",
+    "unit_price": 20.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 15,
+    "name": "Oreo Biscuits",
+    "sku": "SNK002",
+    "keywords": "oreo,biscuits,cookies",
+    "stock_available": 150,
+    "unit": "pcs",
+    "unit_price": 30.00,
+    "created_at": "2026-04-27 10:00:00"
+  },
+  {
+    "id": 16,
+    "name": "Coca Cola 1.5L",
+    "sku": "BEV001",
+    "keywords": "coke,cola,soft drink",
+    "stock_available": 80,
+    "unit": "ltr",
+    "unit_price": 45.00,
+    "created_at": "2026-04-27 10:00:00"
+  }
+]
