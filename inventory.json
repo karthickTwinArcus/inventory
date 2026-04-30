@@ -38,10 +38,10 @@
     "unit": "pcs",
     "unit_price": 1.50,
     "keywords": {
-      "en": ["oreo", "oreo biscuits", "oreo cookies", "chocolate biscuits", "sandwich cookies", "oreo snack"],
-      "ms": ["oreo", "biskut oreo", "kuki oreo", "biskut coklat", "oreo biskut"],
-      "zh": ["奥利奥", "奥利奥饼干", "奥利奥曲奇", "夹心饼干", "巧克力饼干"],
-      "ta": ["ஓரியோ", "ஓரியோ பிஸ்கட்", "ஓரியோ கூக்கீஸ்", "சாக்லேட் பிஸ்கட்", "ஓரியோ சிற்றுண்டி"]
+      "en": ["oreo", "biscuits", "oreo biscuits", "oreo cookies", "chocolate biscuits", "sandwich cookies", "oreo snack"],
+      "ms": ["oreo","biskut", "biskut oreo", "kuki oreo", "biskut coklat", "oreo biskut"],
+      "zh": ["奥利奥","饼干", "奥利奥饼干", "奥利奥曲奇", "夹心饼干", "巧克力饼干"],
+      "ta": ["ஓரியோ","பிஸ்கட்" "ஓரியோ பிஸ்கட்", "ஓரியோ கூக்கீஸ்", "சாக்லேட் பிஸ்கட்", "ஓரியோ சிற்றுண்டி"]
     }
   },
   {
