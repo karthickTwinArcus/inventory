@@ -298,5 +298,20 @@
       "zh": ["雀巢原味咖啡", "雀巢咖啡", "速溶咖啡", "原味雀巢", "三合一咖啡"],
       "ta": ["நெஸ்கஃபே ஒரிஜினல்", "நெஸ்கஃபே காபி", "இன்ஸ்டன்ட் காபி", "3 இன் 1 காபி", "கிளாசிக் காபி"]
     }
+  },
+  {
+    "product_name": "Bru Instant Coffee Powder",
+    "sku": "BRUCOFFEE001",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 45,
+    "unit": "jar",
+    "unit_price": 12.50,
+    "keywords": {
+      "en": ["bru coffee powder", "instant coffee powder", "bru instant coffee", "coffee mix", "filter coffee powder", "coffee jar"],
+      "ms": ["serbuk kopi bru", "kopi segera", "kopi bru", "kopi campuran", "serbuk kopi", "kopi dalam balang"],
+      "zh": ["布鲁咖啡粉", "速溶咖啡粉", "布鲁即溶咖啡", "咖啡粉", "过滤咖啡粉", "咖啡罐"],
+      "ta": ["ப்ரூ காபி பொடி", "இன்ஸ்டன்ட் காபி பொடி", "ப்ரூ இன்ஸ்டன்ட் காபி", "காபி மிக்ஸ்", "பில்டர் காபி பொடி","காபி ஜார்"]
+    }
   }
 ]
